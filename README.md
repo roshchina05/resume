@@ -77,10 +77,6 @@
 
 **Папка:** econometrics
 
-## Технологии и инструменты
-
-ГОСТ 34, ГОСТ 19, IEEE 829, IDEF0, BPMN, UML (Use Cases, ERD), SQL, Python (pandas, matplotlib, pytest), HTML/CSS, MS Excel, Git, Replit
-
 ## Контакты
 
 - Email: roshchina.arina05@yandex.ru
